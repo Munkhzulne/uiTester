@@ -1,0 +1,89 @@
+.landingPage {
+  background-color: #06052f;
+  background-image: url("../images/designer.png"), url("../images/color.png");
+  background-size: 55%, cover;
+  background-position: left bottom;
+  background-attachment: fixed;
+  z-index: 1;
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: scroll;
+}
+.a {
+  background-image: url("../images/backshape.png");
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.landing {
+  background-color: #06052f;
+  background-image:  url("../images/color.png");
+  background-size:  cover;
+  background-position: left bottom;
+  background-attachment: fixed;
+  z-index: 1;
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: scroll;
+}
+.simplePage {
+  min-height: 100vh;
+  overflow: scroll;
+}
+.bg-w {
+  background: white;
+}
+.designHeader, .profile-header {
+  height: 300px;
+  background-color: #06052f;
+  background-image: url("../images/logo2.svg");
+  background-size: contain;
+  background-position: center top 20px;
+  background-repeat: no-repeat;
+}
+.bg {
+  background: transparent;
+}
+.h100 {
+  height: 100%;
+}
+.w100 {
+  width: 100%;
+}
+.t-w {
+  color: white;
+}
+
+.btn-grad {
+  background-image: linear-gradient(
+    to right,
+    #4776e6 0%,
+    #8e54e9 51%,
+    #4776e6 100%
+  );
+}
+.btn-grad {
+  text-align: center;
+  text-transform: uppercase;
+  border: none;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+  display: block;
+}
+
+.btn-grad:hover {
+  background-image: linear-gradient(to right, #4776e6 100%);
+  background-position: right center;
+}
+
+.experience {
+  width: 100%;
+  height: 100%;
+  overflow: 'visible'
+}
+
+.t-center {
+  text-align: center;
+}

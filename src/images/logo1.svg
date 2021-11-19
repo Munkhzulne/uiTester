@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="129" width="314">
+  <defs>
+    <text id="text-1" opacity="1" font-size="0" transform="translate(6, 10)">
+      <tspan fill="rgb(242,242,242)" font-size="121" font-family="SignPainter" font-weight="400" style="white-space: pre;text-transform: none" x="13.337500000000006" y="85">Sketch!</tspan>
+    </text>
+    <clipPath id="clipPath-2">
+      <use xlink:href="#text-1"/>
+    </clipPath>
+    <linearGradient id="linearGradient-4" x1="1.08" y1="0.87" x2="-0.07" y2="0.88">
+      <stop offset="0" stop-color="rgb(255,255,255)" stop-opacity="1"/>
+      <stop offset="0.29" stop-color="rgb(28,255,222)" stop-opacity="1"/>
+      <stop offset="0.62" stop-color="rgb(25,133,255)" stop-opacity="1"/>
+      <stop offset="1" stop-color="rgb(39,36,170)" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g>
+      <use xlink:href="#text-1"/>
+      <rect fill="url(#linearGradient-4)" fill-opacity="1" opacity="1" x="6" y="10" width="308" height="109" clip-path="url(#clipPath-2)"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(28,255,222)" fill-opacity="1" opacity="1" rx="6.5" ry="7" cx="34.5" cy="14"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(25,133,255)" fill-opacity="1" opacity="1" rx="9" ry="9" cx="221" cy="110"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(39,36,170)" fill-opacity="1" opacity="1" rx="3" ry="3.5" cx="3" cy="68.5"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(28,255,222)" fill-opacity="1" opacity="1" rx="3" ry="3.5" cx="146.5" cy="101.5"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(51,225,255)" fill-opacity="1" opacity="1" rx="3" ry="3.5" cx="255" cy="3.5"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(51,225,255)" fill-opacity="1" opacity="1" rx="3" ry="3.5" cx="168.5" cy="24.5"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(51,225,255)" fill-opacity="1" opacity="1" rx="5" ry="5" cx="74" cy="124"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(25,133,255)" fill-opacity="1" opacity="1" rx="5" ry="5" cx="230" cy="49"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(39,36,170)" fill-opacity="1" opacity="1" rx="6.5" ry="7" cx="132.5" cy="31"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(51,225,255)" fill-opacity="1" opacity="1" rx="6.5" ry="5.5" cx="279.5" cy="59.5"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(39,36,170)" fill-opacity="1" opacity="1" rx="4.5" ry="4.5" cx="309.5" cy="72.5"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(28,255,222)" fill-opacity="1" opacity="1" rx="3" ry="3.5" cx="162.5" cy="50.5"/>
+    </g>
+  </g>
+</svg>
